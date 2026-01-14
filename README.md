@@ -1,1 +1,2 @@
-# Row_and_Column_Space_Visualization
+This project visualizes the row space and column space of a matrix
+using random linear combinations and geometric normalization.
